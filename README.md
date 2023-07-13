@@ -1,0 +1,1 @@
+This is my first webpage practice following the curriculum from The Odin Project. Here we need to implement the basic knowledge about headings, paragraph, lists, links, and more.  
