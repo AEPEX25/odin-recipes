@@ -1,0 +1,33 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: cornsilk;
+}
+
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+img {
+    width: 600px;
+    height: 100%;
+}
+
+p {
+    font-size: 18px;
+}
+
+.logo {
+    color:red;
+}
+
+.primary-header {
+    color: rgba(123, 175, 223, 0.979);
+}
+
+
+
+
+
+
